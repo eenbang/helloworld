@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1758532171 source:d:\c-ecnu\1111.c
+	<stdio.h>
+
+1758532302 source:d:\c-ecnu\main.c
+	<stdio.h>
+	<stdlib.h>
+
